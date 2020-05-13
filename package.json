@@ -1,0 +1,14 @@
+{
+  "name": "firstapp",
+  "description": "Made by Vanilla and nodeJS",
+  "author": "PARK CHAN YEOP",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js"
+  },
+  "license": "ISC"
+}
